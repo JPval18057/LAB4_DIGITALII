@@ -1,8 +1,9 @@
 /*
-  Blink
-  The basic Energia example.
-  Turns on an LED on for one second, then off for one second, repeatedly.
-  Change the LED define to blink other LEDs.
+  JUAN PABLO VALENZUELA
+    CARNET: 18057
+    ELECTRÓNICA DIGITAL II
+    SECCION 31
+    LABORATORIO 4
   
   Hardware Required:
   * LaunchPad with an LED
