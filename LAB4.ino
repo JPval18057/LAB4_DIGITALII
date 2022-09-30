@@ -1,15 +1,11 @@
 /*
-  JUAN PABLO VALENZUELA
-    CARNET: 18057
-    ELECTRÓNICA DIGITAL II
-    SECCION 31
-    LABORATORIO 4
+ * Digital Electronics II
+ * Author: JUAN PABLO VALENZUELA
+ * Description: Racing game using two LEDs
+ * Hardware Required:
+ * LaunchPad with two LEDs
   
-  Hardware Required:
-  * LaunchPad with an LED
-  
-  This example code is in the public domain.
-*/
+ */
 
 // most launchpads have a red LED
 #define LED BLUE_LED
